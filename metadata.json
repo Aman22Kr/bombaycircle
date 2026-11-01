@@ -1,0 +1,6 @@
+{
+  "name": "bombaycircle - The Library Cafe & Solidarity Project",
+  "description": "bombaycircle is an inspiring library cafe and social solidarity project in Mumbai, founded by former street youth to provide books, dignified employment, and warm Spanish-Indian comfort cuisine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
